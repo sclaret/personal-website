@@ -1,11 +1,7 @@
 {
   "name": "website-personal",
-  "description": "",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sclaret/website-personal.git"
-  },
-  "devDependencies": {
-    "gulp": "^4.0.0"
   }
 }
